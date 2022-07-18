@@ -19,7 +19,7 @@ Aplicação desenvolvida em Flutter com intuito de trabalhar conexão com API.
    <strong>01. Home Page:</strong> Lista de pokemon puxados da API.
 </div>
 <div align="left"> 
-   <strong>06. Details Page:</strong> Tela que contém informações personalizadas do pokemon clicado.
+   <strong>02. Details Page:</strong> Tela que contém informações personalizadas do pokemon clicado.
 </div>
 
   
@@ -36,9 +36,7 @@ Aplicação desenvolvida em Flutter com intuito de trabalhar conexão com API.
   </table>
   
 #
-  
-  
-  
+    
 <div align="center">  
   <strong> 💼 Tecnologias utilizadas: </strong>
 </div>   
