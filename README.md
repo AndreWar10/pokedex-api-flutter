@@ -28,10 +28,10 @@ Aplicação desenvolvida em Flutter com intuito de trabalhar conexão com API.
   <table align="center">
   <tr>
     <td>
-      <img src="https://github.com/AndreWar10/solar-system-app/blob/master/assets/screens/getstarted_page.jpeg" alt="Search - version mobile" height="500px">
+      <img src="https://github.com/AndreWar10/pokedex-api-flutter/blob/master/assets/screens_poke/WhatsApp%20Image%202022-07-18%20at%2013.27.28.jpeg" alt="Search - version mobile" height="500px">
     </td>
     <td>
-      <img src="https://github.com/AndreWar10/solar-system-app/blob/master/assets/screens/login_page.jpeg" alt="Details Page - version mobile" height="500px">
+      <img src="https://github.com/AndreWar10/pokedex-api-flutter/blob/master/assets/screens_poke/WhatsApp%20Image%202022-07-18%20at%2013.27.28%20(1).jpeg" alt="Details Page - version mobile" height="500px">
     </td>     
   </table>
   
