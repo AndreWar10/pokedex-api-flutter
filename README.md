@@ -1,16 +1,53 @@
-# pokedex
+<div> 
+  <strong>🌟Pokedex </strong>
+</div>
 
-A new Flutter project.
+<div>
+Aplicação desenvolvida em Flutter com intuito de trabalhar conexão com API.
+</div>  
+  
+<div>  
+  O App é composto por uma tela inicial, e uma tela de detalhes com Grid View.
+ </div>
 
-## Getting Started
+  #
+<div align="left"> 
+  <strong>📚 Telas do App:</strong>
+</div>
 
-This project is a starting point for a Flutter application.
+<div align="left"> 
+   <strong>01. Home Page:</strong> Lista de pokemon puxados da API.
+</div>
+<div align="left"> 
+   <strong>06. Details Page:</strong> Tela que contém informações personalizadas do pokemon clicado.
+</div>
 
-A few resources to get you started if this is your first Flutter project:
+  
+  #
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  <table align="center">
+  <tr>
+    <td>
+      <img src="https://github.com/AndreWar10/solar-system-app/blob/master/assets/screens/getstarted_page.jpeg" alt="Search - version mobile" height="500px">
+    </td>
+    <td>
+      <img src="https://github.com/AndreWar10/solar-system-app/blob/master/assets/screens/login_page.jpeg" alt="Details Page - version mobile" height="500px">
+    </td>     
+  </table>
+  
+#
+  
+  
+  
+<div align="center">  
+  <strong> 💼 Tecnologias utilizadas: </strong>
+</div>   
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<table align="center">
+ <tr>
+  <td>Framework Flutter</td>  
+  <td>Http Package</td>
+ 
+  
+ </tr>
+</table>
